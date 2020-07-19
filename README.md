@@ -17,5 +17,5 @@ Hi, My name is Aditiya Ihzar Eka Prayogo currently Internship as Mobile Develope
 - 🤔 My interests are with Mobile Development;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via adit.ihzar@gmail.com to reach me.
-- 📝 See my <a href="https://www.linkedin.com/in/developerfauzan/">linked.in</a> to get more info.
+- 📝 See my <a href="https://www.linkedin.com/in/aditprayogodev/">linked.in</a> to get more info.
 
