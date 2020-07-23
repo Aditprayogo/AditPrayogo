@@ -8,7 +8,6 @@ Hi, My name is Aditiya Ihzar Eka Prayogo currently Internship as Mobile Develope
 ## Github Performance Overall
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=aditprayogo&show_icons=true)
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aditprayogo&theme=dark)
 
 
 ## Current activity
