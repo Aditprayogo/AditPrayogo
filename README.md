@@ -7,7 +7,7 @@ Hi, My name is Aditiya Ihzar Eka Prayogo currently Internship as Mobile Develope
 
 Skills: Kotlin / Java / Flutter / NodeJs / Laravel
 
-- 🌱 I’m currently learning Golang 
+- 🌱 I’m currently learning Flutter 
 - 💻 I'm currently developing <a href="https://play.google.com/store/apps/details?id=com.asosiasidosenindonesia.adi&hl=in">ADI (Asosiasi Dosen Indonesia)</a>
 - 🤔 My interests are with Mobile Development;
 - 💬 Ask me about anything, I am happy to help;
