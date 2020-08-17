@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Aditiya Ihzar Eka Prayogo
 
 #### Mobile Development Enthusiast
-![Mobile Development Enthusiast](https://cdn.dribbble.com/users/486498/screenshots/4512602/illo-4-.jpg)
+![Mobile Development Enthusiast](http://planet-design.com.ua/wp-content/uploads/2013/01/wp_Desktop.jpg)
 
 Hi, My name is Aditiya Ihzar Eka Prayogo currently Internship as Mobile Developer, I live in tangerang, I love listening lofi hip hop music while coding.
 
