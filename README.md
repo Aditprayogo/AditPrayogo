@@ -13,7 +13,5 @@ Skills: Kotlin / Java / Flutter / NodeJs / Laravel
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via adit.ihzar@gmail.com to reach me.
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aditPrayogo)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/aditprayogo)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aditprayogodev/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Alexylisia)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aditPryogo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/PrayogoAditiya)    
-
+   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aditPrayogo&show_icons=true&bg_color=424344&title_color=fff&icon_color=fff&text_color=d9a618&show_owner=false)
