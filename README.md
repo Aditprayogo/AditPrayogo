@@ -2,9 +2,7 @@
 <h3 align="left">Mobile Development Enthusiast from Indonesia</h3>
 
 
-- 🔭 I’m currently working on [ADI (Asosiasi Dosen Indonesia)](https://play.google.com/store/apps/details?id=com.asosiasidosenindonesia.adi&hl=in%22%3EADI)
-
-- 🌱 I’m currently learning **Docker, Kubernetes, GraphQL**
+- 🌱 I’m currently learning **Kotlin, Flutter and Spring boot**
 
 - 📫 How to reach me **adit.ihzar@gmail.com**
 
