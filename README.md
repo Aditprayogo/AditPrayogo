@@ -10,7 +10,7 @@
 
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css" alt="android" width="40" height="40"/>
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css" alt="android" width="40" height="40"/> -->
 </p>
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditPrayogo&show_icons=true&bg_color=424344&title_color=fff&icon_color=fff&text_color=d9a618&show_owner=false" /></p>
