@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Aditiya Prayogo</h1>
+<h1 align="left">Hi 👋, I'm Aditiya Ihzar Eka Prayogo</h1>
 <h3 align="left">Mobile Development Enthusiast from Indonesia</h3>
 
 
