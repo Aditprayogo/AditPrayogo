@@ -1,6 +1,10 @@
-<h1 align="left">Hi 👋, I'm Aditiya Ihzar Eka Prayogo</h1>
+<h1 align="left">Hi Folks 👋</h1>
 
-- 🌱 I’m currently learning **Kotlin, Flutter and Spring boot**
+<p>
+  I'm Aditiya Ihzar Eka Prayogo, an Android developer based in Tangerang with a strong passion to learn new things. Skills include Kotlin, Flutter, Git, analytical thinking, and creative problem-solving. Able to apply Mobile Design to a Mobile Application to improve the user experience for clients. I also love working on projects with other teams and give the best solution for solving problems. 
+</p>
+
+- 🌱 I’m currently learning **Unit testing and Paging**
 
 - 📫 How to reach me **adit.ihzar@gmail.com**
 
