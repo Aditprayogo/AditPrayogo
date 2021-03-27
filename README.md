@@ -1,7 +1,7 @@
 <h1 align="left">Hi Folks 👋</h1>
 
 <p>
-  I'm Aditiya Ihzar Eka Prayogo, an Android developer. Skills include Kotlin, Flutter, Git, analytical thinking, and creative problem-solving. Able to apply Mobile Design to a Mobile Application to improve the user experience for clients. I also love working on projects with other teams and give the best solution for solving problems. 
+  I'm an Android developer. Skills include Kotlin, Flutter, Git, analytical thinking, and creative problem-solving. Able to apply Mobile Design to a Mobile Application to improve the user experience for clients. I also love working on projects with other teams and give the best solution for solving problems. 
 </p>
 
 - 🌱 I’m currently learning **Unit testing and Paging**
