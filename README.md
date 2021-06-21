@@ -11,4 +11,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aditPrayogo&repo=GithubUsers&theme=outrun)](https://github.com/aditPrayogo/GithubUsers)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditprayogo&label=Profile%20views&color=0e75b6&style=flat" alt="aditprayogo" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditprayogo" alt="aditprayogo" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/prayogoaditiya" target="blank"><img src="https://img.shields.io/twitter/follow/prayogoaditiya?logo=twitter&style=for-the-badge" alt="prayogoaditiya" /></a> </p>
