@@ -6,5 +6,5 @@
 - ⚡ Fun fact **I love Gayo Coffee**
 
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditPrayogo&show_icons=true&theme=cobalt"/></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditPrayogo&show_icons=true&theme=radical"/></p>
 
