@@ -15,4 +15,3 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditprayogo" alt="aditprayogo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/prayogoaditiya" target="blank"><img src="https://img.shields.io/twitter/follow/prayogoaditiya?logo=twitter&style=for-the-badge" alt="prayogoaditiya" /></a> </p>
