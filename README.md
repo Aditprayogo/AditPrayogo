@@ -43,13 +43,4 @@ fun main() {
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aditPrayogo&theme=nord&column=7)](https://github.com/aditPrayogo/github-profile-trophy)
 
-## 🔥 Github Stats 
-
-<p align="left">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditPrayogo&show_icons=true&theme=nord"/>
-</p>
-
-![AditPrayogo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditPrayogo&theme=solarized_dark)
-![AditPrayogo Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditPrayogo&theme=solarized_dark)
-![AditPrayogo Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditPrayogo&theme=solarized_dark)
 
