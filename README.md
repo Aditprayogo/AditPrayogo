@@ -43,4 +43,8 @@ fun main() {
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aditPrayogo&theme=nord&column=7)](https://github.com/aditPrayogo/github-profile-trophy)
 
+## 📊 Github Stats 
+![Adit github stats](https://github-readme-stats.vercel.app/api?username=aditPrayogo&theme=nord&show_icons=true&count_private=true)
+
+
 
