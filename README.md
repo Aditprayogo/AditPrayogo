@@ -7,7 +7,7 @@
 ```kotlin
 
 data class SoftwareEngginer(
-    val name: String = "Aditiya Prayogo",
+    val name: String = "Aditiya Ihzar Eka Prayogo",
     val role : String = "Android Developer",
     val hobbies : List<String> = listOf("Reading", "Coding", "Watching Movie")
 ) {
